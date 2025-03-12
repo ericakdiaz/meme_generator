@@ -16,6 +16,8 @@ This project was developed through an AI pair programming session using Claude (
 
 The development process showcases how AI can serve as an effective pair programming partner while maintaining high code quality and following best practices.
 
+You can explore the complete development journey in the `.specstory/history` directory, which contains all AI pair programming conversations and code changes made during the development process. This provides a transparent look at how each feature was conceived, implemented, and refined through AI collaboration.
+
 ## Demo
 
 ### Home Page
