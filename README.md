@@ -2,6 +2,34 @@
 
 A modern web application that generates and manages memes using AI. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## Project Creation
+
+This project was developed through an AI pair programming session using Claude (via Cursor), demonstrating the potential of AI-assisted development. The entire application - from initial setup to debugging and optimization - was created through natural language conversations with the AI agent, which helped:
+
+- Design and implement the full-stack architecture
+- Write and debug React components and API routes
+- Set up the database schema and migrations
+- Implement AI-powered meme generation
+- Debug layout and functionality issues
+- Create automated tests
+- Generate comprehensive documentation (including this README!)
+
+The development process showcases how AI can serve as an effective pair programming partner while maintaining high code quality and following best practices.
+
+## Demo
+
+### Home Page
+
+Initial state:
+![Home Page Initial](docs/home-page-initial.png)
+
+After generating a meme:
+![Home Page with Generated Meme](docs/home-page-generated.png)
+
+### Trending Page
+
+![Trending Page](docs/trending-page.png)
+
 ## Features
 
 - AI-powered meme generation
