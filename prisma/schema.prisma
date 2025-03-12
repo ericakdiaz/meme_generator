@@ -1,0 +1,17 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Meme {
+  id        Int      @id @default(autoincrement())
+  imageUrl  String   @db.Text    // Using Text type for longer URLs
+  votes     Int      @default(0)
+  template  String   // The meme concept/template used
+  category  String   // Category of the meme (programming/tech/meta/dev-life)
+  createdAt DateTime @default(now())
+} 
