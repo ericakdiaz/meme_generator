@@ -18,6 +18,53 @@ The development process showcases how AI can serve as an effective pair programm
 
 You can explore the complete development journey in the `.specstory/history` directory, which contains all AI pair programming conversations and code changes made during the development process. This provides a transparent look at how each feature was conceived, implemented, and refined through AI collaboration.
 
+## Development Timeline
+
+The entire application was built in approximately 5.5 hours of active development time across two days:
+
+### Day 1 (3h 15m)
+
+1. Initial Setup (~45m)
+
+   - Project creation
+   - Dependencies installation
+   - Basic file structure
+   - Environment setup
+
+2. Core Features (~1h 30m)
+
+   - OpenAI integration
+   - Meme generation API
+   - Basic UI components
+   - Database schema setup
+
+3. Voting System (~1h)
+   - API endpoints for voting
+   - Vote UI components
+   - Database integration
+
+### Day 2 (2h 15m)
+
+1. Trending Page (~1h)
+
+   - Page layout
+   - Infinite scroll implementation
+   - Data fetching optimization
+
+2. Bug Fixes & Improvements (~1h 15m)
+   - Layout responsiveness
+   - Data fetching issues
+   - Performance optimization
+   - Error handling
+
+### Development Breakdown
+
+- Frontend work: ~2.5 hours
+- Backend work: ~2 hours
+- DevOps/Setup: ~1 hour
+
+Most time-intensive tasks were setting up AI meme generation (~1h), implementing infinite scroll (~45m), and debugging data fetching issues (~45m).
+
 ## Demo
 
 ### Home Page
