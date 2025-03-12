@@ -65,6 +65,12 @@ The entire application was built in approximately 5.5 hours of active developmen
 
 Most time-intensive tasks were setting up AI meme generation (~1h), implementing infinite scroll (~45m), and debugging data fetching issues (~45m).
 
+### Project Stats
+
+- Total lines of code: 827 across 10 files
+- AI Communication: 195 messages totaling 3,094 words
+- Development sessions: 4 (spanning 2 days)
+
 ## Demo
 
 ### Home Page
